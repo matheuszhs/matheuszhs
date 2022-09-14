@@ -55,3 +55,4 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E01A4F&height=120&section=footer"/>
+<!-- https://coolors.co/1e1e24-e01a4f-fff8f0-ffcf99-111d4a -->
